@@ -1,4 +1,8 @@
 # Animal Information App
+  <div align="left">
+	
+![Repo Views](https://visitor-badge.laobi.icu/badge?page_id=SpencerVJones/Animal-Info-App)
+</div>
 This iOS app allows users to view information about different animals and edit their properties. The app consists of two view controllers: one for displaying animal information and another for editing the properties of the selected animal.
 
 ## Features:
